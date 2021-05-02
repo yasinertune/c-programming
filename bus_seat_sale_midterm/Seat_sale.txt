@@ -1,0 +1,14 @@
+		Oturma Düzeni
+
+     1		    2	 		   3
+Yasin Ertune	Mehmet Yilmaz	x	Veli  Turan	
+Ahmet Goren	Ali   Okumus	x	Akif  Kara 	
+Yagmur Duran	Kemal Kus  	x	Bora  Duran	
+Murat Yuce 	Ayse  Durmus	x	Sukru Durmus	
+
+
+Satilan toplam koltuk:12
+Elde edilen toplam gelir:450
+55 TL lik koltuklardan toplam 3 adet satilmistir.
+35 TL lik koltuklardan toplam 6 adet satilmistir.
+25 TL lik koltuklardan toplam 3 adet satilmistir.
