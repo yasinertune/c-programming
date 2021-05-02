@@ -7,7 +7,7 @@ int main(){
 	char first_word[20],second_word[20];
 	printf("Birinci Kelime:");
 	gets(first_word);
-	printf("愲inci Kelime:");
+	printf("襤kinci Kelime:");
 	gets(second_word);
 	strlwr(first_word); 
 	strupr(second_word);	
@@ -46,11 +46,12 @@ int main(){
 		
 	//strlen: Girilen kelimenin uzunlugunu verir
 	//sizeof: Dizinin RAM'de kapladigi alani verir
-	//strcmp: 愲i kelimeyi karsilastirir. Ayniysa:0  Farkliysa:1 degerini verir.
+	//strcmp: 襤ki kelimeyi karsilastirir. Ayniysa:0  Farkliysa:1 degerini verir.
 	//strrev: Kelimeyi ters cevirir. Kelimeyi ters cevirdikten sonra tekrar cevirmezsek hep ters islem gorur.
 	//substr: Bunun icin for dongusunu kullaniyoruz. C++ da tanimli burda tanimli degil.
 	//strlwr: Kelimenin hepsini kucuk yapar.
-	//strupr: Kelimenin hepsini buyuk yapar
+	//strupr: Kelimenin hepsini buyuk 
+	//strcpy: Kelimenin ayn覺s覺n覺 baska b覺r deg覺skene kopyalar.
 }
 
 
